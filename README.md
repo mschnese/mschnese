@@ -26,10 +26,10 @@ My main interests are thermofluids, aerodynamics, and modeling/simulation. After
   Created a 10 page technical report comparing the accuracy of the implicit and explicit Euler's methods, 2nd and 4th order Runge-Kutta, 4th order Adams-Bashforth, and 4th order Adams-Moulton for accuracy between methods and accuracy between step sizes for one method.
 
 ## 🛠️ Skills:
-Programming: MATLAB, Python, C#
-Tools: SOLIDWORKS, LTSpice, COMSOL, Simulink
-Instrumentation: Instrumentation: Oscilloscope, Ohmmeter, Voltmeter, Breadboard, DAQ
-Other Tools: MS Office Suite, Soldering, Additive Manufacturing
+- Programming: MATLAB, Python, C#
+- Tools: SOLIDWORKS, LTSpice, COMSOL, Simulink
+- Instrumentation: Instrumentation: Oscilloscope, Ohmmeter, Voltmeter, Breadboard, DAQ
+- Other Tools: MS Office Suite, Soldering, Additive Manufacturing
 
 ## 💡 Future Goals:
 - Take graguate level MODSIM, Engineering Methods 2, and CFD before graduating

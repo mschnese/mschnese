@@ -23,7 +23,7 @@ My main interests are thermofluids, aerodynamics, and modeling/simulation. After
   Created PID from a state space model with 4 criteria of success for the final project of my controls class.
 
 - 📊 analysis of the accuracy of 6 ODE solvers:
-  Created a 10 page technical report comparing the accuracy of the implicit and explicit Euler's methods, 2nd and 4th order Runge-Kutte, 4th order Adams-Bashforth, and 4th order Adams-Moulton for accuracy between methods and accuracy between step sizes for one method.
+  Created a 10 page technical report comparing the accuracy of the implicit and explicit Euler's methods, 2nd and 4th order Runge-Kutta, 4th order Adams-Bashforth, and 4th order Adams-Moulton for accuracy between methods and accuracy between step sizes for one method.
 
 ## 🛠️ Skills:
 Programming: MATLAB, Python, C#

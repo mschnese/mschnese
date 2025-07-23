@@ -11,12 +11,12 @@ My main interests are thermofluids, aerodynamics, and modeling/simulation. After
 - ⚾ Pitch flight modeling from frame video analysis (independant):
   Multivaraite model created using induced verticle break, induced horizontal break, spin-to-velo ratio, and distance as parameters with 180 datapoints per parameter for each of 4 pitch types (fastball, curveball, slider, splitter/changeup).
   
-- 💨 CFD analysis(independant):
+- 💨 CFD analysis (independant):
   analyzing an airfoil for multiple angles of attack using openFOAM, and noting observations
 
 ### ✔ Completed:
 
-- 🚁 Assembly of a Drone (personal):
+- 🚁 Assembly of a Drone (independant):
   3d modeled and printed drone frame, optomized BOM, created metrics of success and timeline for project, ran tests on drone frame in FEA and real life, and documented entire project
   
 - 🤖 creation of a PID using simulink for an actuator system:
